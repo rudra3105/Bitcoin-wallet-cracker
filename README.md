@@ -25,7 +25,7 @@ Automated Bitcoin wallet generator. With mnemonic and passphrases bruteforces wa
 ### Python3+
 
 ```
-git clone https://github.com/adrijano/Bitcoin-wallet-cracker.git
+git clone https://github.com/rudra3105/Bitcoin-wallet-cracker.git
 
 cd Bitcoin-wallet-cracker && pip install -r requirements.txt
 
