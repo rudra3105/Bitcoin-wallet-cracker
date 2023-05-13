@@ -5,9 +5,6 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/adrijano/Bitcoin-wallet-cracker/)
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrijano/Bitcoin-wallet-cracker/graphs/commit-activity)
 
 
 # Bitcoin wallet cracker
